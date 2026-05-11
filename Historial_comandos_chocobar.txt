@@ -1,0 +1,290 @@
+clear
+echo $HOME
+man man
+man cd
+man pwd
+pwd
+whoami
+ls
+ls -1
+ls -la
+mkdir clase4
+ls -l
+cd clase4
+pwd
+cat > archivo1.txt
+ls -l
+cat archivo1.txt
+cat > archivo2.txt
+ls -l
+cat archivo2.txt
+cat * .txt
+cat archivo1.txt archivo2.txt >archivo3.txt
+ls -l
+cat archivo 3.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+cd ..
+cd clase4
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -la
+cd .shh
+cd .ssh
+pwd
+ls -1
+ls -l
+cat id_ed25519.pub
+cd ..
+pwd
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:more217/VMvagrant_repo.git
+pdw
+git clone git@github.com:more217/VMvagrant_repo.git
+ls -l
+cd VMvagrant_repo
+ls -l
+cat README.md
+echo "archivo de prueba"
+echo "archivo de prueba" > prueba.txt
+ls -l
+cat prueba.txt
+git status
+git add
+"git add"
+git status
+exit
+ls -1
+clear
+echo$HOME
+clear
+echo $HOME
+man man
+man cd
+man pwd
+pwd
+whoami
+ls
+ls -l
+ls -la
+cd clase4
+pwd
+cat > archivo1.txt
+ls -l
+cat archivo1.txt
+cat archivo2.txt
+cat archivo1.txt archivo2.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+pwd
+cd ..
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+pwd
+ls -l
+cat id_ed25519.pub
+cd ..
+pwd
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:more217/VMvagrant_repo114.git
+ls -l
+cd VMvagrant_repo114/
+ls -l
+cat README.md
+echo "archivo de prueba"
+echo "archivo de prueba" > prueba.txt
+ls -l
+cat prueba.txt
+git status
+git add .
+git status
+git commit -m "agrego archivo prueba.txt"
+git config --global user.email "morechoco8610@gmail.com"
+git config --global user.name "more.chocobar"
+git commit -m "agrego archivo prueba.txt"
+git status
+ls -l
+git push
+vagrant halt
+Vagrant halt
+cd ..
+vagrant halt
+cd ..
+vagrantfile
+exit
+ls -l
+cd clase4
+ls -l
+cat archivo1.txt
+cat archivo2.txt
+cat archivo3.txt
+grep linea6 archivo3.txt
+grep Linea6 archivo3.txt
+gerp -i linea6 archivo3.txt
+grep -i linea6 archivo3.txt
+grep 6 linea6 archivo3.txt
+grep -c 6 linea6 archivo3.txt
+grep -n 6 linea6 archivo3.txt
+grep -v 6 linea6 archivo3.txt
+grep 6 linea6 archivo3.txt
+grep 6 linea6 archivo3.txt > archivo4.txt
+grep 6  archivo3.txt > archivo4.txt
+ls -l
+cd ..
+tree
+Sudo Apt
+Sudo Apt audet
+Sudo Apt update
+sudo apt update
+sudo apt install tree
+tree
+ls -l
+pwd
+mkdir clase5
+ls -l
+cd clase5/
+mkdir practica
+ls -l
+cd practica
+touch practica1.txt
+ls -l
+cp practica1.txt practica2.txt
+ls -l
+rm practica1.txt
+ls -l
+pwd
+mv practica2.txt /home/vagrant/clase5/practica
+ls -l
+cd ..
+ls -l
+cd practica
+pwd
+mv practica2.txt /home/vagrant/clase5/practica
+cd ..
+ls -l
+mkdir facturas pedidos
+ls -l
+tree
+mkdir -p clientes/{facturas,pedidos}
+tree
+mkdir -p {clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p chocobar_1/contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p chocobar_2/{mama/{hijo1,hijo2,hijo3},papa/{hijo1,hijo2,hijo
+3, ahijado}
+tree
+mkdir -p chocobar_2/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+rm -r {mama/
+whoami
+id
+cd
+pwd
+cat /etc/passwd
+grep-i vagrant /etc/passwd
+grep -i vagrant /etc/psswd
+grep -i vagrant /etc/passwd
+cat /etc/shadow
+sudo cat /etc/shadow
+sudo grep vagrant /etc/shadow
+cat /etc/group
+grep vagrant /etc/group
+sudo su
+groupadd alumnos
+sudo groupadd alumnos
+cat /etc/group
+sudo useradd -m -s /bin/bash -c "mi primer usuario pepe" -G alumnos pepe
+cat /etc/group
+cat /etc/passwd
+ls -l /home
+sudo passwd pepe
+sudo cat /etc/passwd
+sudo cat /etc/shadow
+su - pepe
+pwd
+ls -l
+ls -l /home/pepe
+vagrant halt
+cd ..
+exit
+cd ..
+vagrant halt
+exit
+ssh-keygen -t ed25519
+ls -l .ssh/
+ssh-keygen -t ed25519
+cd
+cd change dir
+cd
+mkdir repogit
+$HOME
+clear
+cd
+mkdir repogit
+$HOME/repogit/
+cd repogit
+git clone git@github.com:more217/-TP1_AySO_chocobar_morena.git
+cd TP1_AySO_chocobar_morena
+cd TP_AySO/
+pwd
+cd -TP1_AySO_chocobar_morena
+cd TP1_AySO_chocobar_morena
+cd T
+ls
+cd -TP1_AySO_chocobar_morena
+cd TP1_AySO_chocobar_morena
+clear
+git clone git@github.com:more217/TP1_AySO_chocobar_morena.git
+cd TP1_AySO_chocobar_morena/
+pwd
+ls -l
+cat /etc/os-release
+grep -i HOME_URL
+cd repogit
+cd TP1_AySO_chocobar_morena/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt 
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add
+git add .
+git config --global user.email "morechoco8610@gmail.com" 
+git config --global user.name "more.chocobar"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: añadiendo informacion de CPU"
+cat <<EOF >> README.md
+alumno: morena chocobar
+division: 114
+turno: mañana
+EOF
+
+git add README.md datos_usuarios.txt
+ls
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p {materia1,materia2}/{uni1,uni2,uni3}
+tree
+history -a
